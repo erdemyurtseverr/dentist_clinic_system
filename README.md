@@ -1,5 +1,6 @@
 # dentist_clinic_system:
 Simple Python-based management system 
+
 #Purpose
 This project was created to practice:
 - Python fundamentals
